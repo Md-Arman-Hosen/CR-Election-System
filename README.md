@@ -8,7 +8,7 @@ Protected By Admin Password.
 
 OnlineVotingSystem.cpp 
 
-    That is the main c++ file of my project.
+    That is the main c++ file of our project.
 
 ID.txt
 
